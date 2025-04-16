@@ -1,3 +1,12 @@
+
 “This is a representation of an unfinished function a group member is working
 on.”
 "This is a new change from Caden Larson"
+
+“This is a representation of an unfinished function a group member is working on.”
+“This is a new change from Nolan Hoff” 
+
+This is a representation of an unfinished function a group member is working
+on.
+This is a new change from Cedar Longballa
+
